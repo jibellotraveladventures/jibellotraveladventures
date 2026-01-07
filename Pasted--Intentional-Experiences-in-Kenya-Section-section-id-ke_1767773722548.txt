@@ -1,0 +1,54 @@
+<!-- Intentional Experiences in Kenya Section -->
+<section id="kenya-experiences" style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 900px; margin: 0 auto; padding: 60px 20px; color: #333; line-height: 1.6;">
+  <h2 style="text-align: center; font-size: 2.5em; margin-bottom: 20px;">Intentional Experiences in Kenya</h2>
+  <p style="text-align: center; font-size: 1.2em; margin-bottom: 50px;">
+    Discover curated, off-the-beaten-path destinations for mindful, luxury travel. From riverside retreats and forest escapes to yoga sanctuaries and boutique lodges, these experiences are designed for rest, reflection, and reconnection.
+  </p>
+
+  <!-- Experience Cards -->
+  <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center;">
+
+    <!-- Sagana -->
+    <div style="flex: 1 1 300px; background: #fdfdf8; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+      <h3 style="margin-top: 0; font-size: 1.5em;">Sagana River Retreat</h3>
+      <p>Riverside serenity with gentle hikes, guided nature walks, and opportunities for reflection. Perfect for mindful adventurers seeking calm away from the crowds.</p>
+      <img src="images/sagana.jpg" alt="Sagana River" style="width: 100%; border-radius: 8px; margin-top: 10px;">
+    </div>
+
+    <!-- Camp Dunda -->
+    <div style="flex: 1 1 300px; background: #fdfdf8; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+      <h3 style="margin-top: 0; font-size: 1.5em;">Camp Dunda</h3>
+      <p>Luxury wilderness lodge with panoramic hill views, curated nature experiences, and quiet mornings. Ideal for private retreats and explorers who value comfort and presence.</p>
+      <img src="images/camp-dunda.jpg" alt="Camp Dunda" style="width: 100%; border-radius: 8px; margin-top: 10px;">
+    </div>
+
+    <!-- Ngare Ndare Forest -->
+    <div style="flex: 1 1 300px; background: #fdfdf8; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+      <h3 style="margin-top: 0; font-size: 1.5em;">Ngare Ndare Forest</h3>
+      <p>Immerse yourself in waterfalls, turquoise pools, and canopy walks. A serene forest escape designed for restoration and mindful exploration.</p>
+      <img src="images/ngare-ndare.jpg" alt="Ngare Ndare Forest" style="width: 100%; border-radius: 8px; margin-top: 10px;">
+    </div>
+
+    <!-- Lamu Island -->
+    <div style="flex: 1 1 300px; background: #fdfdf8; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+      <h3 style="margin-top: 0; font-size: 1.5em;">Lamu Coastal Escape</h3>
+      <p>Secluded beaches, Swahili culture, and traditional dhow sailing. Ideal for luxury travelers seeking tranquility and mindful coastal experiences.</p>
+      <img src="images/lamu.jpg" alt="Lamu Island" style="width: 100%; border-radius: 8px; margin-top: 10px;">
+    </div>
+
+    <!-- Kakamega Forest -->
+    <div style="flex: 1 1 300px; background: #fdfdf8; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+      <h3 style="margin-top: 0; font-size: 1.5em;">Kakamega Forest</h3>
+      <p>Kenya’s last tropical rainforest, filled with rare birds and slow exploration trails. Perfect for mindful hiking and nature immersion.</p>
+      <img src="images/kakamega.jpg" alt="Kakamega Forest" style="width: 100%; border-radius: 8px; margin-top: 10px;">
+    </div>
+
+    <!-- Chyulu Hills -->
+    <div style="flex: 1 1 300px; background: #fdfdf8; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+      <h3 style="margin-top: 0; font-size: 1.5em;">Chyulu Hills</h3>
+      <p>Rolling volcanic hills offering hiking, horseback riding, and panoramic views. Ideal for explorers and photographers seeking serenity and adventure.</p>
+      <img src="images/chyulu.jpg" alt="Chyulu Hills" style="width: 100%; border-radius: 8px; margin-top: 10px;">
+    </div>
+
+  </div>
+</section>
